@@ -1,8 +1,9 @@
+import { Box } from "@mui/material";
 
 export default function LoginPage(){
     return(
-        <div>
-            LoginPage
-        </div>
+        <Box>
+            <h1>Teste</h1>
+        </Box>
     )
 }
